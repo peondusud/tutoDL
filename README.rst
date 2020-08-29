@@ -10,7 +10,7 @@ Requirements
 Install
 =======
 
-    pip install scrapy
+    pip3 install scrapy
 
 See the install section in the documentation at
 https://docs.scrapy.org/en/latest/intro/install.html for more details.
@@ -25,5 +25,5 @@ directory.
 Run
 =======
 
-    python learningdl.py
-    python scene-rls.py
+    python3 learningdl.py
+    python3 scene-rls.py
